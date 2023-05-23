@@ -1,0 +1,11 @@
+.introContainer {
+  display: flex;
+  width: 80vw;
+  flex-direction: column;
+  margin: 30px auto;
+}
+
+.introContainer .introPara {
+  text-align: left;
+  margin: 10px 0;
+}

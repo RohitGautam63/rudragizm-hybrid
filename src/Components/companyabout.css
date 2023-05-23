@@ -1,0 +1,18 @@
+.CompanyAbout {
+  margin: 70px 0;
+}
+
+.CompanyAbout .companyName {
+  color: steelblue;
+}
+
+.CompanyAbout .secondaryText {
+  font-size: 1.2rem;
+  margin: 10px 0;
+  margin-top: 40px;
+}
+
+.CompanyAbout .directorName {
+  font-size: 2rem;
+  margin: 20px 0;
+}
